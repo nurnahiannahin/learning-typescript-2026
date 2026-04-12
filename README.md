@@ -1,6 +1,6 @@
 # 🚀 TypeScript Mastery 2026: Roadmap to Product Engineering
 
-This repository documents my 365-day journey to mastering enterprise-level TypeScript and Next.js. My goal is to transition from a Full-Stack (MERN) developer to a **Product Engineer** capable of building scalable, type-safe applications for global remote teams.
+This repository documents my journey to mastering enterprise-level TypeScript and Next.js. My goal is to transition from a Full-Stack (MERN) developer to a **Product Engineer** capable of building scalable, type-safe applications for global remote teams.
 
 ## 🎯 Quarter 1 Goals (Technical Hardening)
 - [ ] Achieve 100% Type Safety in all projects (No `any`).
